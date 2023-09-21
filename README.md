@@ -7,12 +7,12 @@ Adversaries may smuggle data and files past content filters by hiding malicious 
 1. Payload is encoded in base64 to avoid bad characters
 2. Decode routine is used to decode back to its original format
 3. Stores into a byte array
-Places the array into a Blob which gives it a name called sharp.js
-If the statement detects if the victim is using Chrome or Internet explorer, it will open automatically.
-Create a hidden a’ tag
-Create an anchor object with the create element, specifying the anchor object with the hidden a’ tag
-Place the anchor object into the HTML document and specify its attributes as none, so it does not display on the website
-With the anchor ready referencing the blob object, an automatic download click is created to download the file automatically.
+4. Places the array into a Blob which gives it a name called sharp.js
+5. If the statement detects if the victim is using Chrome or Internet explorer, it will open automatically.
+6. Create a hidden a’ tag
+7. Create an anchor object with the create element, specifying the anchor object with the hidden a’ tag
+8. Place the anchor object into the HTML document and specify its attributes as none, so it does not display on the website
+9. With the anchor ready referencing the blob object, an automatic download click is created to download the file automatically.
 
 ## Usage
 ghostrider.exe <input file>
