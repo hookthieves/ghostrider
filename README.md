@@ -15,8 +15,8 @@ This project is to simplify HTML smuggling for red team operations. The idea of 
 9. With the anchor ready referencing the blob object, an automatic download click is created to download the file automatically
 
 ## Usage
-ghostrider.exe input_file
-smuggle.html will be created in the current working directory ready for delivery.
+- ghostrider.exe input_file
+- smuggle.html will be created in the current working directory ready for delivery.
 
 ## Todo
 1. HTML encode the output and over-write the file to bypasses content inspection
