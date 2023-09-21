@@ -17,4 +17,7 @@ Adversaries may smuggle data and files past content filters by hiding malicious 
 ## Usage
 ghostrider.exe input_file
 
+### Todo:
+1. HTML encode the output and over-write the file to bypasses content inspection (Zscaler)
+
 ![image](https://github.com/hookthieves/ghostrider/assets/46670348/23094a9a-adf5-471f-97f7-fda52a83e43e)
