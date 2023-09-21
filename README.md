@@ -17,5 +17,4 @@ Adversaries may smuggle data and files past content filters by hiding malicious 
 ## Usage
 ghostrider.exe input_file
 
-![image](https://github.com/hookthieves/ghostrider/assets/46670348/e811170e-38b1-4888-8300-e4ccb4980838)
-
+![image](https://github.com/hookthieves/ghostrider/assets/46670348/23094a9a-adf5-471f-97f7-fda52a83e43e)
