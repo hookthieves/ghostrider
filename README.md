@@ -15,4 +15,7 @@ Adversaries may smuggle data and files past content filters by hiding malicious 
 9. With the anchor ready referencing the blob object, an automatic download click is created to download the file automatically.
 
 ## Usage
-ghostrider.exe <input file>
+ghostrider.exe input_file
+
+![image](https://github.com/hookthieves/ghostrider/assets/46670348/23e1449c-40c0-4490-a647-508515d8ae3b)
+
