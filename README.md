@@ -21,5 +21,8 @@ This project is to simplify HTML smuggling for red team operations. The idea of 
 ## Todo
 1. HTML encode the output and over-write the file to bypasses content inspection
 
+2. ## Licence
+MIT Licence @ MIT
+
 ## Output
 ![image](https://github.com/hookthieves/ghostrider/assets/46670348/23094a9a-adf5-471f-97f7-fda52a83e43e)
